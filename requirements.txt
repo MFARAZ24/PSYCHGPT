@@ -1,7 +1,7 @@
 
-streamlit==1.0.0
-python==3.9.7
-clarifai==2.6.1
-dotenv== 16.3.1
+streamlit
+python
+clarifai
+dotenv
 
 # Add other dependencies as needed
