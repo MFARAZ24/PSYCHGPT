@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 import streamlit as st
 from clarifai.client.model import Model
 import base64
