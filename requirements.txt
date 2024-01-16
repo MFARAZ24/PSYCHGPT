@@ -2,6 +2,6 @@
 streamlit
 python
 clarifai
-dotenv
+
 
 # Add other dependencies as needed
