@@ -1,3 +1,5 @@
 clarifai==3.12.1
 streamlit==1.0.0
+python==3.9.7
+
 # Add other dependencies as needed
